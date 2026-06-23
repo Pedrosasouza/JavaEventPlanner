@@ -1,0 +1,14 @@
+src/eventplanner/controller/EventManager.java
+src/eventplanner/model/AppointmentEvent.java
+src/eventplanner/model/Attendee.java
+src/eventplanner/model/BirthdayEvent.java
+src/eventplanner/model/Category.java
+src/eventplanner/model/Event.java
+src/eventplanner/model/MeetingEvent.java
+src/eventplanner/model/Recurrence.java
+src/eventplanner/service/EventService.java
+src/eventplanner/util/EventStorage.java
+src/eventplanner/view/CalendarPanel.java
+src/eventplanner/view/EventDialog.java
+src/eventplanner/view/EventListPanel.java
+src/eventplanner/view/EventPlannerApp.java
