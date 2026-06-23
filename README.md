@@ -118,7 +118,7 @@ O projeto usa Base64 em alguns campos para evitar problemas com caracteres espec
 
 ## Autor
 
-Pedro Santos Souza
+Pedro Santos Souza - 12567502
 
 Bacharelado em Sistemas de Informação
 
