@@ -60,15 +60,6 @@ O projeto segue uma organizacao inspirada em MVC:
 - `service`: regras de negocio dos eventos.
 - `util`: leitura e gravacao do arquivo de dados.
 
-## Conceitos de POO
-
-O projeto usa:
-
-- Encapsulamento, com atributos privados e metodos getters/setters.
-- Heranca, pois `MeetingEvent`, `BirthdayEvent` e `AppointmentEvent` herdam de `Event`.
-- Polimorfismo, pois cada tipo de evento implementa sua propria categoria.
-- Abstracao, pois `Event` representa um evento generico.
-- Enums, com `Category` e `Recurrence`.
 
 ## Requisitos
 
@@ -130,6 +121,6 @@ O projeto usa Base64 em alguns campos para evitar problemas com caracteres espec
 
 Pedro Santos Souza
 
-Bacharelado em Sistemas de Informacao
+Bacharelado em Sistemas de Informação
 
 Universidade de Sao Paulo (USP)
