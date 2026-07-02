@@ -2,7 +2,6 @@ package eventplanner.model;
 
 /**
  * Enumeração de tipos de recorrência de eventos.
- * Simplificado: apenas os 4 tipos básicos, sem lógica complexa.
  */
 public enum Recurrence {
     NONE("None"),
